@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\bin\Debug\net6.0\cSharp-HttpRequest.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\bin\Debug\net6.0\cSharp-HttpRequest.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\bin\Debug\net6.0\cSharp-HttpRequest.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\bin\Debug\net6.0\cSharp-HttpRequest.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\bin\Debug\net6.0\cSharp-HttpRequest.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\obj\Debug\net6.0\cSharp-HttpRequest.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\obj\Debug\net6.0\cSharp-HttpRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\obj\Debug\net6.0\cSharp-HttpRequest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\obj\Debug\net6.0\cSharp-HttpRequest.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\obj\Debug\net6.0\cSharp-HttpRequest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\obj\Debug\net6.0\cSharp-HttpRequest.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\obj\Debug\net6.0\refint\cSharp-HttpRequest.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\obj\Debug\net6.0\cSharp-HttpRequest.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\obj\Debug\net6.0\cSharp-HttpRequest.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-HttpRequest\obj\Debug\net6.0\ref\cSharp-HttpRequest.dll
